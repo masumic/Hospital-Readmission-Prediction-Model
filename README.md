@@ -1,0 +1,3 @@
+This project analyzes a dataset of patient readmission data, using medical factors to predict the likelihood of a patient being readmitted to a healthcare facility. After performing data cleaning and encoding categorical variables with one-hot encoding, two predictive models are built to assess readmission risk based on the available features.
+
+The project is implemented in a Jupyter Notebook, incorporating SQLite to manage and integrate the database component. Additionally, an interactive Tableau dashboard is included, providing users with an interactive visualization of the data to enhance understanding and insights.
